@@ -1,4 +1,4 @@
-![](C:\Users\i catch\Desktop\image.png)
+![](assets\image.png)
 
 ## 1-install geocoder:
 ```bash
