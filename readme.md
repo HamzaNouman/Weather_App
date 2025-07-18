@@ -1,3 +1,5 @@
+# The Weather-App, app made by HamzaNouman,NaturalCapsule
+
 <img width="960" height="509" alt="Image" src="https://github.com/user-attachments/assets/cafdcb6b-2ae7-46a3-be20-2089c38b49df" />
 
 ## 1-install geocoder:
@@ -25,3 +27,5 @@ pip install pyqt6-fluent-widgets
 ```bash 
 pip install -r requirements.txt
 ```
+
+### https://github.com/NaturalCapsule
