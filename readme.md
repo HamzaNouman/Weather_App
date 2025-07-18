@@ -22,4 +22,4 @@ pip install pyqt6-fluent-widgets
 # Or You Can Install Modules: 
 ```bash 
 pip install -r requirements.txt
-```
+```# Weather_App
