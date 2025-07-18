@@ -1,4 +1,4 @@
-![](assets\image.png)
+![App image](assets\image.png)
 
 ## 1-install geocoder:
 ```bash
